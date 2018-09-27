@@ -1,1 +1,0 @@
-{"map":"{\"version\":3,\"file\":\"index.js\",\"sourceRoot\":\"\",\"sources\":[\"../../../src/index.ts\"],\"names\":[],\"mappings\":\"AAAA,OAAO,eAAe,MAAM,8BAA8B,CAAC;AAE3D,OAAO,EACH,eAAe,EAClB,CAAC\"}","code":"import TestMultiSelect from './components/TestMultiSelect';\r\nexport { TestMultiSelect };\r\n//# sourceMappingURL=index.js.map"}
